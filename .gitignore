@@ -1,0 +1,26 @@
+# Core Secrets & Credentials
+.env
+gcp-credentials.json
+.json
+
+# Local Runtime Database & Storage
+checkpoints.db
+.db
+
+# Python Environment & Virtual Environments
+.venv
+venv
+ENV
+env
+.venv_py310_backup
+
+# Python Cache & Artifacts
+__pycache__
+.py[cod]
+$py.class
+.pytest_cache
+.mypy_cache
+
+# IDE Configurations
+.vscode
+.idea

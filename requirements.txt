@@ -1,0 +1,10 @@
+langchain-core==0.3.66
+langchain-google-genai==2.1.5
+langchain-openai==0.2.14
+langgraph==0.2.76
+langgraph-checkpoint-sqlite==2.0.11
+google-cloud-bigquery==3.27.0
+pydantic==2.11.7
+python-dotenv==1.0.1
+google-auth==2.40.3
+google-cloud-bigquery-storage==2.26.0
